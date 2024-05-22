@@ -1,2 +1,2 @@
 # Slithery-Snake
-Python Snake Game
+Python Snake Game using the curses module
